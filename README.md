@@ -258,9 +258,9 @@ I'm actively strengthening my understanding of:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=medrahmanz-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medrahmanz-max&theme=tokyonight" height="180" alt="GitHub profile summary"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=medrahmanz-max&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medrahmanz-max&theme=tokyonight" height="180" alt="Repositories by language"/>
 
 <br>
 
