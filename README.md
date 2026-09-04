@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/profile.jpg" alt="Morlai Mansaray" width="150" height="150" style="border-radius:50%;"/>
+<img src="./profile.jpg" alt="Morlai Mansaray" width="150" height="150"/>
 
 <br><br>
 
