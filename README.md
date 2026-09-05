@@ -88,6 +88,15 @@ I'm especially interested in:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Developer tools"/>
 </p>
 
+### 🎨 Creative & Design
+
+<p>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+<img src="https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Animate"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"/>
+</p>
+
 ---
 
 # 📈 Current Skill Journey
