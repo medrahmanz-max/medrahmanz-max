@@ -137,6 +137,22 @@ My personal developer portfolio showcasing my background, skills, projects, and 
 
 ---
 
+## 📱 Age Calculator
+
+A polished React Native and Expo app for calculating exact age, total time lived, zodiac sign, and next birthday.
+
+**Status:** 🟢 Live Web App · Android Build Ready
+
+**Stack:** React Native • Expo • Expo Router • TypeScript • AsyncStorage
+
+**Live Website:**  
+👉 https://mfmanz-agecalculator.expo.app
+
+**Repository:**  
+👉 https://github.com/medrahmanz-max/age-calculator
+
+---
+
 # 🧪 Projects & Development Work
 
 Not every project needs to be deployed to be valuable. This section showcases projects, experiments, academic work, and earlier development practice.
