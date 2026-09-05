@@ -145,9 +145,6 @@ A polished React Native and Expo app for calculating exact age, total time lived
 
 **Stack:** React Native • Expo • Expo Router • TypeScript • AsyncStorage
 
-**Live Website:**  
-👉 https://mfmanz-agecalculator.expo.app
-
 **Repository:**  
 👉 https://github.com/medrahmanz-max/age-calculator
 
